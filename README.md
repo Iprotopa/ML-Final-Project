@@ -109,3 +109,4 @@ I could test different neural network architectures and investigate whether the 
 ## Files
 
 - `Final_Project_Option2.ipynb` — completed project notebook with code, results, confusion matrices, and written conclusions.
+- Results.md - only results and confusion matrices
